@@ -10,4 +10,4 @@ struct MultiMapTuple
 	std::string context;
 };
 
-#endif // MULTIMAPTUPLE_H_#pragma once
+#endif // MULTIMAPTUPLE_H_ 

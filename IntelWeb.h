@@ -2,6 +2,7 @@
 #define INTELWEB_H_
 
 #include "InteractionTuple.h"
+#include "DiskMultiMap.h"
 #include <string>
 #include <vector>
 
@@ -22,7 +23,8 @@ public:
 	bool purge(const std::string& entity);
 
 private:
-	// Your private member declarations will go here
+	DiskMultiMap forwardRelations;
+	DiskMultiMap reverseRelations;
 };
 
 #endif // INTELWEB_H_

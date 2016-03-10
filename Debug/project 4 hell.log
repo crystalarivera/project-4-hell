@@ -1,0 +1,5 @@
+﻿  IntelWeb.cpp
+c:\users\crystal rivera\documents\visual studio 2015\projects\project 4 hell\project 4 hell\intelweb.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\crystal rivera\documents\visual studio 2015\projects\project 4 hell\project 4 hell\intelweb.cpp(97): warning C4715: 'IntelWeb::ingest': not all control paths return a value
+  project 4 hell.vcxproj -> C:\Users\Crystal Rivera\Documents\Visual Studio 2015\Projects\project 4 hell\Debug\project 4 hell.exe
+  project 4 hell.vcxproj -> C:\Users\Crystal Rivera\Documents\Visual Studio 2015\Projects\project 4 hell\Debug\project 4 hell.pdb (Partial PDB)
